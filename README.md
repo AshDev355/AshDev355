@@ -1,4 +1,3 @@
-# Ayesha-Tariq
 # 💫 About Me:
 🚀 Software engineer exploring full-stack development (React, FastAPI, Node)<br>🤖 Interested in AI, machine learning, and AGI<br>🔒 Learning cybersecurity, DevOps, and cloud<br>🎯 Competitive programmer & problem solver<br>📊 Data enthusiast working with Python, SQL, and APIs
 
